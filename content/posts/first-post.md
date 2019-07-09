@@ -5,7 +5,7 @@ draft: false
 ---
 # Simple post for demonstration
 
-Not much to see here, just getting things going. Check back soon.
+Not much to see here, just getting things going. But there will be.
 
 
 ### Comments
