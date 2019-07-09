@@ -9,3 +9,5 @@ Another line of code
 A comment is added to see if logging will happen
 
 This is a new comment
+
+And a newer line of code
